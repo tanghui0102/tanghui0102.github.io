@@ -8,4 +8,6 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+在读硕士，主攻方向自动驾驶仿真测试与其他业务开发和探索。
+
+邮箱：1039851382@qq.com,th1039851382@163.com,th1039851382@outlook.com
